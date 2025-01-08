@@ -14,7 +14,7 @@ This project is a static website built using React. It can be used as a template
 ## Installation and Usage
 #### Clone the repository
 ``` 
-git clone https://github.com/Saumya4321/react-static-website.git
+git clone https://github.com/Saumya4321/emojipedia-site.git
 ```
 
 #### Navigate to project directory
@@ -35,4 +35,4 @@ Open ```http://localhost:3000``` in your browser to view the application
 
 ## Deployment
 This project is deployed using GitHub Pages.
-[Live Demo](https://saumya4321.github.io/react-static-website/)
+[Live Demo](https://saumya4321.github.io/emojipedia-site/)
