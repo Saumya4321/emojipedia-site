@@ -36,3 +36,5 @@ Open ```http://localhost:3000``` in your browser to view the application
 ## Deployment
 This project is deployed using GitHub Pages.
 [Live Demo](https://saumya4321.github.io/emojipedia-site/)
+![image](https://github.com/user-attachments/assets/7c42b893-7778-418b-a643-7d34768bebff)
+
